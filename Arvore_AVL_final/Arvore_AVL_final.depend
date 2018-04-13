@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1521811361 source:c:\users\aluno\desktop\arvore_avl_parcial\arvore_avl_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1521810030 c:\users\aluno\desktop\arvore_avl_parcial\arvore_avl_parcial\arvoreavl.h
+
+1521817235 source:c:\users\aluno\desktop\arvore_avl_parcial\arvore_avl_parcial\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1522939574 source:c:\users\aluno\desktop\arvore_avl_final\arvore_avl_parcial\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1522938005 c:\users\aluno\desktop\arvore_avl_final\arvore_avl_parcial\arvoreavl.h
+
+1522939846 source:c:\users\aluno\desktop\arvore_avl_final\arvore_avl_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ArvoreAVL.h"
+
+1523151591 source:c:\users\renata badiali\desktop\arvore_avl_final\arvore_avl_parcial\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1523151286 c:\users\renata badiali\desktop\arvore_avl_final\arvore_avl_parcial\arvoreavl.h
+
+1523151610 source:c:\users\renata badiali\desktop\arvore_avl_final\arvore_avl_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ArvoreAVL.h"
+
+1523153721 source:c:\users\renata badiali\desktop\arvore_avl_final\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1523151286 c:\users\renata badiali\desktop\arvore_avl_final\arvoreavl.h
+
+1523653430 source:c:\users\aluno\desktop\arvore_avl_final\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1523651268 c:\users\aluno\desktop\arvore_avl_final\arvoreavl.h
+
+1523653476 source:c:\users\aluno\desktop\arvore_avl_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ArvoreAVL.h"
+
